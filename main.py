@@ -1,7 +1,7 @@
 """
 YouTube Downloader - MP4 & MP3
 Simple YouTube downloader using yt-dlp for downloading videos in MP4 or MP3 format
-Author: Souta
+Author: Souta78
 """
 
 import os
