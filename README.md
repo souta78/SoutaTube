@@ -1,29 +1,31 @@
-# 🎬 YouTube Downloader MP4/MP3
+# YouTube Downloader MP4/MP3
 
-Aplikasi Python CLI sederhana untuk mendownload video (MP4) atau audio (MP3) dari YouTube.  
-Dibuat oleh **Souta**.
-
----
-
-## 🔧 Fitur
-
-- 🎞️ Download video (MP4) dalam kualitas 360p, 480p, 720p, 1080p
-- 🎧 Download audio (MP3) dalam kualitas 128, 192, 320 kbps
-- 📃 Support playlist YouTube
-- 📁 Otomatis tersimpan ke folder `Downloads`
-- 🧭 Menu interface yang mudah dipakai
+A simple Python CLI application for downloading YouTube videos (MP4) or extracting audio (MP3).  
+Built by **Souta**.
 
 ---
 
-## 🧰 Kebutuhan
+## Features
 
-- Python 3.7+
-- [`yt-dlp`](https://github.com/yt-dlp/yt-dlp)
-- `ffmpeg` (hanya untuk MP3)
+- Download YouTube videos in 360p, 480p, 720p, or 1080p
+- Extract audio as MP3 (128, 192, or 320 kbps)
+- Support for downloading entire playlists
+- Files are saved to the system's default Downloads folder
+- Easy-to-use command-line menu
 
 ---
 
-## ⚙️ Instalasi
+## Requirements
+
+- Python 3.7 or later
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- [FFmpeg](https://ffmpeg.org/) (only required for MP3 downloads)
+
+---
+
+## Installation
+
+Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/yourusername/youtube-downloader.git
