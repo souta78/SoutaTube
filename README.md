@@ -95,12 +95,6 @@ File hasil download akan tersimpan di:
 - **macOS:** `/Users/[Username]/Downloads`
 - **Linux:** `/home/[Username]/Downloads`
 
-## Catatan Penting
-
-### Tentang FFmpeg
-- **Untuk MP4:** FFmpeg TIDAK diperlukan. Anda bisa download video tanpa menginstall FFmpeg
-- **Untuk MP3:** FFmpeg diperlukan untuk konversi audio. Tanpa FFmpeg, fitur download MP3 tidak akan berfungsi
-
 ### Format URL yang Didukung
 - Video tunggal: `https://www.youtube.com/watch?v=VIDEO_ID`
 - Video pendek: `https://youtu.be/VIDEO_ID`
