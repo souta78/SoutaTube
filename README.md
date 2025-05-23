@@ -31,3 +31,7 @@ Clone the repository and install dependencies:
 git clone https://github.com/yourusername/youtube-downloader.git
 cd youtube-downloader
 pip install yt-dlp
+
+## Run
+```bash
+python index.py
