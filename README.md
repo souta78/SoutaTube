@@ -28,9 +28,9 @@ Built by **Souta**.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/youtube-downloader.git
-cd youtube-downloader
+git clone https://github.com/souta78/SoutaTube.git
+cd SoutaTube
 pip install yt-dlp
-python index.py
+python main.py
 
 
